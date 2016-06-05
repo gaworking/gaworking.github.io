@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+.no-cover.main-header {
+	background: #ffffff;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
