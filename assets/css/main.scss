@@ -10,6 +10,17 @@
 
 .no-cover.main-header {
 	background: #ffffff;
+	padding-top: 2em;
+	max-height: 32%;
+}
+
+ul li {
+	display: inline;
+	padding-left: 0.5em;
+}
+
+ul {
+	padding: 0em;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
