@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Playlist 1: Downtempo/House/Pop"
-date:   2016-06-04 17:00:00
+title: "Playlist 1: Downtempo/House/Pop"
+date: 2016-06-04 17:00:00
 categories: Playlists 
 ---
 
